@@ -161,7 +161,7 @@
         }
     ],
     "url": "https://github.com/btbias/5e-complete",
-    "manifest": "https://github.com/btbias/5e-complete/releases/latest/download/module.json",
-    "download": "https://github.com/btbias/5e-complete/releases/download/v0.3.3/module.zip",
+    "download": "https://github.com/eddyhanson98/5e-complete/archive/refs/tags/minor_patch.zip",
+    "manifest": "https://raw.githubusercontent.com/eddyhanson98/5e-complete/minor_patch/module.json",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
